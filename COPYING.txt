@@ -1,0 +1,5 @@
+This product contains open source software including software released under the GNU General Public License (GPL) version 2 and Library/Lesser General Public License version 2/2.1. As per the terms of these licenses Fairphone is offering you to ship the source code on a physical medium for up to three years after support for the product has ended for a charge of EUR 10. To receive the source code write to gpl-request@fairphone.com or to Fairphone, Piet Heinkade 181a, 1019 HC Amsterdam, The Netherlands
+
+To ensure smooth handling of your request please indicate the model number for which you would like to receive the source code.
+
+For your convenience we have also made the source code available for download at http://www.fairphone.com/downloads/open_source/
